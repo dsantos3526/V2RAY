@@ -8,6 +8,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 
 * https://github.com/mack-a/v2ray-agent/blob/master/documents/en/README_EN.md
+* https://www.youtube.com/channel/UCV73uXSaKlzzC5N1CFmoTnw
 
 
 
