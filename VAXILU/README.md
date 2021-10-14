@@ -12,6 +12,8 @@ sudo apt install -y nginx
 install cerbot
 ```javascript
 curl -o- https://raw.githubusercontent.com/vinyll/certbot-install/master/install.sh | bash
+```
+```
 certbot --nginx
 ```
 
