@@ -7,6 +7,8 @@ https://github.com/vaxilu/x-ui
 * Install SSL
 ```javascript
 sudo apt update
+```
+```
 sudo apt install -y nginx
 ```
 install cerbot
