@@ -67,3 +67,5 @@ rm -rf templatemo_563_seo_dream
 * https://www.youtube.com/watch?v=qhlLDUBP_Ng
 * https://github.com/vaxilu/x-ui/
 * https://github.com/vinyll/certbot-install
+* https://www.v2rayssr.com/x-ui.html
+* https://www.youtube.com/watch?v=6ztPETEiY8M
