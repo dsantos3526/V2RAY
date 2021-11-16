@@ -1,8 +1,20 @@
 # INSTALL V2RAY
-* https://github.com/mack-a/v2ray-agent/
-* 
-* 
 
+
+# Latest Version【Recommended】
 ```
-cp /etc/v2ray-agent/xray/conf/04_trojan_TCP_inbounds.json /usr/share/nginx/html/trojan
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && / root/install.sh
 ```
+
+
+# Stable-v2.4.16【No gRPC】
+```
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/stable_v2.4.16/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+```
+
+
+# Reference
+- https://github.com/mack-a/v2ray-agent/
+- https://www.v2ray-agent.com/2020-10-16-VLESS%20VMess%20Trojan%20Trojan-Go%20%E4%B8%83%E5%90%88%E4%B8%80%E8%84%9A%E6%9C%AC/
+ 
+
