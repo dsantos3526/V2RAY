@@ -16,5 +16,8 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 # Reference
 - https://github.com/mack-a/v2ray-agent/
 - https://www.v2ray-agent.com/2020-10-16-VLESS%20VMess%20Trojan%20Trojan-Go%20%E4%B8%83%E5%90%88%E4%B8%80%E8%84%9A%E6%9C%AC/
- 
+- https://github.com/mack-a/v2ray-agent/blob/master/documents/how_to_use.md
+- https://github.com/mack-a/v2ray-agent/blob/master/documents/install_tools.md
+- https://github.com/mack-a/v2ray-agent/blob/master/documents/optimize_V2Ray.md
+- 
 
