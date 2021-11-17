@@ -1,5 +1,10 @@
 # INSTALL V2RAY
 
+# tools
+```
+apt update && apt install wget curl -y
+```
+
 
 # Latest Version【Recommended】
 ```
